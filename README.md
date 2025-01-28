@@ -10,4 +10,8 @@ Their design is based on our proposed algorithm, which generates symmetric graph
 
 # Transform vectors
 
+The transform vectors of the SBGFTs of size 4x4, 8x8, 16x16 and 32x32 can be found at: https://drive.google.com/drive/folders/1PHaRcjYabe7PJP0XC_aE3UTz4v09XlkY?usp=drive_link
+
+Each .mat file contains a 3D matrix. The third dimension represents a specific graph. For each graph (that is, for each slice of the 3D matrix), the basis vectors of the corresponding graph are stored in the columns of the 2D matrix.
+
 
