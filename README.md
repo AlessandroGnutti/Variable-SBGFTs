@@ -10,7 +10,7 @@ Their design is based on our proposed algorithm, which generates symmetric graph
 
 # Source code for generating the SBGFT
 
-You can use the scrip `generateSBGFT.m` for generating the laplacian of the proposed symmetric graphs and the associated eigenvector matrices. The auxiliar function `updateAdjMtx_v2.m` is necessary for running the script, as well as the Graph Signal Processing Toolbox than can be found at https://epfl-lts2.github.io/gspbox-html/
+You can use the script `generateSBGFT.m` for generating the Laplacian matrix of the proposed symmetric graphs, along with the associated eigenvector matrices. The auxiliar function `updateAdjMtx_v2.m` is necessary for running the script, as well as the Graph Signal Processing Toolbox than can be found at https://epfl-lts2.github.io/gspbox-html/
 
 # Transform vectors
 
