@@ -18,4 +18,24 @@ The transform vectors of the SBGFTs of size 4x4, 8x8, 16x16 and 32x32 can be fou
 
 Each .mat file contains a 3D matrix. The third dimension represents a specific graph. For each graph (that is, for each slice of the 3D matrix), the basis vectors of the corresponding graph are stored in the columns of the 2D matrix.
 
+# Citation
+
+If you use this code in your work, please consider citing the following paper:
+
+```
+@misc{gnutti2024variablesizesymmetrybasedgraphfourier,
+      title={Variable-size Symmetry-based Graph Fourier Transforms for image compression}, 
+      author={Alessandro Gnutti and Fabrizio Guerrini and Riccardo Leonardi and Antonio Ortega},
+      year={2024},
+      eprint={2411.15824},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2411.15824}, 
+}
+```
+
+# Support
+
+For any help request, please send an email to: alessandro.gnutti@unibs.it
+
 
